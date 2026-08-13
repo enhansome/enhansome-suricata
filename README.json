@@ -540,7 +540,7 @@
             "last_commit": "2026-08-09T17:00:14Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2479
+            "stars": 2482
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:27.686Z",
+    "last_updated": "2026-08-13T10:20:00.050Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_sha": "c5146fbee9a03965ce8f8d2dade078e3fb0d0ed4",
     "enhanced_repository": "enhansome/enhansome-suricata",
