@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T19:28:18Z",
+            "last_commit": "2026-08-13T19:12:46Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17746
+            "stars": 17750
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-09T17:00:14Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2482
+            "stars": 2483
           }
         },
         {
@@ -551,7 +551,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T22:50:14Z",
+            "last_commit": "2026-08-14T06:35:53Z",
             "owner": "jasonish",
             "repo": "evebox",
             "stars": 494
@@ -649,6 +649,20 @@
         },
         {
           "node_type": "item",
+          "title": "Antiphishing",
+          "description": "Suricata rules and datasets to detect phishing attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T09:15:10Z",
+            "owner": "julioliraup",
+            "repo": "Antiphishing",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Cluster25/detection",
           "description": "Cluster25's detection rules.",
           "children": [],
@@ -658,20 +672,6 @@
             "last_commit": "2024-01-23T17:35:31Z",
             "owner": "Cluster25",
             "repo": "detection",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Antiphishing",
-          "description": "Suricata rules and datasets to detect phishing attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T02:43:15Z",
-            "owner": "julioliraup",
-            "repo": "Antiphishing",
             "stars": 14
           }
         },
@@ -810,7 +810,7 @@
             "last_commit": "2025-09-13T15:38:46Z",
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1589
+            "stars": 1590
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2024-11-28T23:20:58Z",
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 617
+            "stars": 616
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:20:00.050Z",
+    "last_updated": "2026-08-14T10:14:46.997Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_sha": "c5146fbee9a03965ce8f8d2dade078e3fb0d0ed4",
     "enhanced_repository": "enhansome/enhansome-suricata",

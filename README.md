@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,746 | 🐛 405 | 🌐 Go | 📅 2026-08-12 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,750 | 🐛 387 | 🌐 Go | 📅 2026-08-13 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -85,8 +85,8 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,482 | 🐛 154 | 🌐 Python | 📅 2026-08-09 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-* [Evebox](https://github.com/jasonish/evebox) ⭐ 494 | 🐛 11 | 🌐 Rust | 📅 2026-08-11 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,483 | 🐛 154 | 🌐 Python | 📅 2026-08-09 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Evebox](https://github.com/jasonish/evebox) ⭐ 494 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets and Lists
@@ -96,8 +96,8 @@
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 88 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 32 | 🐛 0 | 🌐 CSS | 📅 2026-07-21 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-08-14 - Suricata rules and datasets to detect phishing attacks.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-08-13 - Suricata rules and datasets to detect phishing attacks.
 * [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) ⭐ 4 | 🐛 1 | 📅 2026-02-25 - Set of Suricata rules published by QuadrantSec.
 * [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
 * Networkforensic.dk (NF) rules sets:
@@ -127,7 +127,7 @@
 
 ## Systems Using Suricata
 
-* [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,589 | 🐛 219 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
+* [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,590 | 🐛 219 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
 * [Amsterdam](https://github.com/StamusNetworks/Amsterdam) ⚠️ Archived - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
 * [Shovel](https://github.com/FCSC-FR/shovel) ⭐ 99 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-19 - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
 * [Artica](https://github.com/dtouzeau/artica-suricata) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2025-12-01 - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.
@@ -141,7 +141,7 @@
 
 ## Simulation and Testing
 
-* [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
+* [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 616 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
 * [Dalton](https://github.com/secureworks/dalton) ⭐ 520 | 🐛 24 | 🌐 Python | 📅 2026-05-28 - Suricata and Snort IDS rule and pcap testing system.
 * [speeve](https://github.com/satta/speeve) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-07-03 - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
 
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
