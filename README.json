@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T15:43:56Z",
+            "last_commit": "2026-08-18T09:45:46Z",
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17756
@@ -537,10 +537,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T17:00:14Z",
+            "last_commit": "2026-08-17T19:38:18Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2485
+            "stars": 2487
           }
         },
         {
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:19:02Z",
+            "last_commit": "2026-08-18T05:40:54Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
             "stars": 23
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:54:27.427Z",
+    "last_updated": "2026-08-18T09:45:49.681Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_sha": "c5146fbee9a03965ce8f8d2dade078e3fb0d0ed4",
     "enhanced_repository": "enhansome/enhansome-suricata",
