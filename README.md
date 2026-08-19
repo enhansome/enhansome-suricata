@@ -40,12 +40,12 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,756 | 🐛 391 | 🌐 Go | 📅 2026-08-18 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,758 | 🐛 386 | 🌐 Go | 📅 2026-08-19 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
 * [slinkwatch](https://github.com/DCSO/slinkwatch) ⭐ 12 | 🐛 6 | 🌐 Go | 📅 2019-12-10 - Automatic enumeration and maintenance of Suricata monitoring interfaces.
-* [Triagewall](https://github.com/aaronphifer/triagewall) ⭐ 11 | 🐛 6 | 🌐 Python | 📅 2026-08-17 - Local-LLM triage layer for Suricata alerts, using a tunable prefilter and Ollama classifier to reduce alert volume.
+* [Triagewall](https://github.com/aaronphifer/triagewall) ⭐ 11 | 🐛 7 | 🌐 Python | 📅 2026-08-19 - Local-LLM triage layer for Suricata alerts, using a tunable prefilter and Ollama classifier to reduce alert volume.
 * [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) ⭐ 10 | 🐛 0 | 🌐 HCL | 📅 2022-08-02 - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata.
 * [MassDeploySuricata](https://github.com/pevma/MassDeploySuricata) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2014-12-07 - Mass deploy and update Suricata IDPS using Ansible IT automation platform.
 * [Mauerspecht](https://github.com/DCSO/mauerspecht) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2025-03-14 - Simple Probing Tool for Corporate Walled Garden Networks.
@@ -85,8 +85,8 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,487 | 🐛 147 | 🌐 Python | 📅 2026-08-17 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-* [Evebox](https://github.com/jasonish/evebox) ⭐ 495 | 🐛 9 | 🌐 Rust | 📅 2026-08-14 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,489 | 🐛 147 | 🌐 Python | 📅 2026-08-17 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Evebox](https://github.com/jasonish/evebox) ⭐ 496 | 🐛 9 | 🌐 Rust | 📅 2026-08-14 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets and Lists
@@ -96,7 +96,7 @@
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 89 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 32 | 🐛 0 | 🌐 CSS | 📅 2026-07-21 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - Suricata rules and datasets to detect phishing attacks.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Suricata rules and datasets to detect phishing attacks.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
 * [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) ⭐ 4 | 🐛 1 | 📅 2026-02-25 - Set of Suricata rules published by QuadrantSec.
 * [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

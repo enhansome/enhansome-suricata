@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18270560,
             "language": null,
             "last_commit": "2016-03-12T01:35:33Z",
             "owner": "pevma",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154524897,
             "language": "Go",
             "last_commit": "2026-07-24T23:55:49Z",
             "owner": "DCSO",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331468073,
             "language": "C",
             "last_commit": "2023-06-21T10:52:04Z",
             "owner": "quadrantsec",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427856689,
             "language": "Rust",
             "last_commit": "2021-11-25T08:32:12Z",
             "owner": "Center-Sun",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373324178,
             "language": "Rust",
             "last_commit": "2026-02-13T23:10:36Z",
             "owner": "jasonish",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581542098,
             "language": null,
             "last_commit": "2022-11-25T18:57:56Z",
             "owner": "VVelox",
@@ -91,7 +97,7 @@
       "title": "Output Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33258973,
             "language": "Go",
-            "last_commit": "2026-08-18T09:45:46Z",
+            "last_commit": "2026-08-19T00:13:51Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17756
+            "stars": 17758
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41530307,
             "language": "Shell",
             "last_commit": "2026-07-14T13:51:35Z",
             "owner": "jasonish",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5260288,
             "language": "Python",
             "last_commit": "2015-10-14T16:07:33Z",
             "owner": "regit",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462348716,
             "language": "Go",
             "last_commit": "2026-06-09T13:37:17Z",
             "owner": "corelight",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155190473,
             "language": "Go",
             "last_commit": "2019-12-10T16:18:23Z",
             "owner": "DCSO",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1227519848,
             "language": "Python",
-            "last_commit": "2026-08-17T03:42:10Z",
+            "last_commit": "2026-08-19T03:41:32Z",
             "owner": "aaronphifer",
             "repo": "triagewall",
             "stars": 11
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350510389,
             "language": "HCL",
             "last_commit": "2022-08-02T18:08:29Z",
             "owner": "onetwopunch",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16664028,
             "language": "Shell",
             "last_commit": "2014-12-07T11:31:16Z",
             "owner": "pevma",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194120481,
             "language": "Go",
             "last_commit": "2025-03-14T10:40:17Z",
             "owner": "DCSO",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481641879,
             "language": "Perl",
             "last_commit": "2024-06-04T04:24:08Z",
             "owner": "VVelox",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139066446,
             "language": null,
             "last_commit": "2018-06-30T09:39:30Z",
             "owner": "GitMirar",
@@ -251,7 +268,7 @@
       "title": "Operations, Monitoring and Troubleshooting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11379148,
             "language": "Python",
             "last_commit": "2025-07-10T21:36:27Z",
             "owner": "jasonish",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74061816,
             "language": "Go",
             "last_commit": "2026-08-07T22:27:17Z",
             "owner": "google",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284443452,
             "language": "Python",
             "last_commit": "2024-03-13T14:30:57Z",
             "owner": "m-chrome",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79928561,
             "language": "Go",
             "last_commit": "2019-05-16T14:54:52Z",
             "owner": "rhaist",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422233289,
             "language": "Rust",
             "last_commit": "2026-06-01T23:00:18Z",
             "owner": "jasonish",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232228991,
             "language": "Go",
             "last_commit": "2020-08-23T20:09:13Z",
             "owner": "ks2211",
@@ -341,7 +364,7 @@
       "title": "Programming Libraries and Toolkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254355204,
             "language": null,
             "last_commit": "2026-04-26T08:25:57Z",
             "owner": "StamusNetworks",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87560448,
             "language": "Python",
             "last_commit": "2018-05-30T07:19:14Z",
             "owner": "StamusNetworks",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53705056,
             "language": "Shell",
             "last_commit": "2016-07-28T10:43:58Z",
             "owner": "StamusNetworks",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150583471,
             "language": "Python",
             "last_commit": "2019-03-05T10:22:42Z",
             "owner": "StamusNetworks",
@@ -403,7 +430,7 @@
       "title": "Dashboards and Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444084405,
             "language": "Python",
             "last_commit": "2026-07-23T16:16:41Z",
             "owner": "StamusNetworks",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134185061,
             "language": null,
             "last_commit": "2023-12-09T10:05:42Z",
             "owner": "ozuriexv",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174539901,
             "language": null,
             "last_commit": "2022-02-26T12:52:40Z",
             "owner": "dgenzer",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444752143,
             "language": "TypeScript",
             "last_commit": "2026-03-16T13:00:23Z",
             "owner": "StamusNetworks",
@@ -465,7 +496,7 @@
       "title": "Development Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -474,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77237198,
             "language": "Makefile",
             "last_commit": "2018-03-15T21:30:41Z",
             "owner": "pevma",
@@ -488,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124362164,
             "language": "Makefile",
             "last_commit": "2018-04-17T12:55:25Z",
             "owner": "pevma",
@@ -502,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555430913,
             "language": "Python",
             "last_commit": "2025-04-28T18:12:50Z",
             "owner": "StamusNetworks",
@@ -516,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754216573,
             "language": null,
             "last_commit": "2024-06-27T22:19:08Z",
             "owner": "sidallocation",
@@ -527,7 +562,7 @@
       "title": "Documentation and Guides"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -536,11 +571,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186475440,
             "language": "Python",
             "last_commit": "2026-08-17T19:38:18Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2487
+            "stars": 2489
           }
         },
         {
@@ -550,11 +586,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20077214,
             "language": "Rust",
             "last_commit": "2026-08-14T22:55:33Z",
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 495
+            "stars": 496
           }
         },
         {
@@ -564,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470601757,
             "language": "Jupyter Notebook",
             "last_commit": "2025-11-20T17:10:56Z",
             "owner": "StamusNetworks",
@@ -575,7 +613,7 @@
       "title": "Analysis Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -584,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34398893,
             "language": "HTML",
             "last_commit": "2019-01-02T11:19:51Z",
             "owner": "fox-it",
@@ -598,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157105415,
             "language": null,
             "last_commit": "2026-05-07T20:18:06Z",
             "owner": "travisbgreen",
@@ -612,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649471028,
             "language": null,
             "last_commit": "2025-11-10T18:48:31Z",
             "owner": "aleksibovellan",
@@ -626,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162181827,
             "language": "CSS",
             "last_commit": "2026-07-21T19:56:58Z",
             "owner": "OISF",
@@ -640,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201604401,
             "language": null,
             "last_commit": "2023-07-24T14:29:59Z",
             "owner": "klingerko",
@@ -654,8 +697,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-18T05:40:54Z",
+            "last_commit": "2026-08-19T02:02:25Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
             "stars": 23
@@ -668,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 399954908,
             "language": "YARA",
             "last_commit": "2024-01-23T17:35:31Z",
             "owner": "Cluster25",
@@ -682,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556800320,
             "language": null,
             "last_commit": "2026-02-25T17:14:49Z",
             "owner": "quadrantsec",
@@ -693,7 +739,7 @@
       "title": "Rule Sets and Lists"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -702,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19433880,
             "language": "Python",
             "last_commit": "2026-05-22T07:16:42Z",
             "owner": "StamusNetworks",
@@ -716,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52397738,
             "language": "Python",
             "last_commit": "2024-04-26T13:13:08Z",
             "owner": "AlienVault-OTX",
@@ -730,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202765818,
             "language": "Python",
             "last_commit": "2026-07-21T21:33:01Z",
             "owner": "secureworks",
@@ -744,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372456561,
             "language": "Python",
             "last_commit": "2022-11-09T15:41:50Z",
             "owner": "sebdraven",
@@ -758,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135872304,
             "language": "Python",
             "last_commit": "2019-11-30T03:14:50Z",
             "owner": "theY4Kman",
@@ -772,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176490866,
             "language": "JavaScript",
             "last_commit": "2021-08-10T22:38:17Z",
             "owner": "dgenzer",
@@ -786,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6813004,
             "language": "Lua",
             "last_commit": "2012-11-22T14:06:00Z",
             "owner": "regit",
@@ -797,7 +850,7 @@
       "title": "Rule/Security Content Management and Handling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -806,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19819796,
             "language": "Shell",
             "last_commit": "2025-09-13T15:38:46Z",
             "owner": "StamusNetworks",
@@ -820,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41256956,
             "language": "Python",
             "last_commit": "2022-09-13T07:25:49Z",
             "owner": "StamusNetworks",
@@ -834,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 716617119,
             "language": "JavaScript",
             "last_commit": "2026-07-19T20:36:58Z",
             "owner": "FCSC-FR",
@@ -848,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078467933,
             "language": "Go",
             "last_commit": "2025-12-01T00:56:42Z",
             "owner": "dtouzeau",
@@ -859,7 +916,7 @@
       "title": "Systems Using Suricata"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -868,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67401647,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-22T11:59:19Z",
             "owner": "ccdcoe",
@@ -882,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512931938,
             "language": "Shell",
             "last_commit": "2024-03-08T05:40:37Z",
             "owner": "jasonish",
@@ -893,7 +952,7 @@
       "title": "Training"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -902,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274744266,
             "language": "Python",
             "last_commit": "2024-11-28T23:20:58Z",
             "owner": "ReversecLabs",
@@ -916,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100408000,
             "language": "Python",
             "last_commit": "2026-05-28T14:26:26Z",
             "owner": "secureworks",
@@ -930,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275032881,
             "language": "Go",
             "last_commit": "2026-07-03T05:26:47Z",
             "owner": "satta",
@@ -941,7 +1003,7 @@
       "title": "Simulation and Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -950,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2478657,
             "language": "Lua",
             "last_commit": "2021-11-05T07:46:02Z",
             "owner": "regit",
@@ -964,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 907315834,
             "language": "TypeScript",
             "last_commit": "2025-05-01T13:32:41Z",
             "owner": "SEc-123",
@@ -978,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 426988440,
             "language": "Shell",
             "last_commit": "2022-09-04T00:18:13Z",
             "owner": "control-owl",
@@ -992,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395222974,
             "language": "Shell",
             "last_commit": "2026-03-11T05:50:19Z",
             "owner": "isMTv",
@@ -1004,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:45:49.681Z",
+    "last_updated": "2026-08-19T09:46:09.518Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_sha": "c5146fbee9a03965ce8f8d2dade078e3fb0d0ed4",
     "enhanced_repository": "enhansome/enhansome-suricata",
