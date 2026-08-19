@@ -108,10 +108,10 @@
             "archived": false,
             "id": 33258973,
             "language": "Go",
-            "last_commit": "2026-08-19T00:13:51Z",
+            "last_commit": "2026-08-19T09:51:16Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17758
+            "stars": 17757
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 1227519848,
             "language": "Python",
-            "last_commit": "2026-08-19T03:41:32Z",
+            "last_commit": "2026-08-19T12:18:30Z",
             "owner": "aaronphifer",
             "repo": "triagewall",
             "stars": 11
@@ -1070,8 +1070,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:46:09.518Z",
+    "last_updated": "2026-08-19T12:55:42.588Z",
     "original_repository": "satta/awesome-suricata",
+    "original_repository_id": 564772414,
     "original_repository_sha": "c5146fbee9a03965ce8f8d2dade078e3fb0d0ed4",
     "enhanced_repository": "enhansome/enhansome-suricata",
     "enhanced_repository_description": null,
