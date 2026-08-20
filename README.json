@@ -108,10 +108,10 @@
             "archived": false,
             "id": 33258973,
             "language": "Go",
-            "last_commit": "2026-08-19T09:51:16Z",
+            "last_commit": "2026-08-19T16:27:33Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17757
+            "stars": 17760
           }
         },
         {
@@ -176,14 +176,14 @@
         },
         {
           "node_type": "item",
-          "title": "Triagewall",
-          "description": "Local-LLM triage layer for Suricata alerts, using a tunable prefilter and Ollama classifier to reduce alert volume.",
+          "title": "TriageWall",
+          "description": "Local-first analyst workbench for triaging and investigating Suricata and Wazuh alerts with a tunable prefilter and Ollama classifier.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1227519848,
             "language": "Python",
-            "last_commit": "2026-08-19T12:18:30Z",
+            "last_commit": "2026-08-19T17:30:30Z",
             "owner": "aaronphifer",
             "repo": "triagewall",
             "stars": 11
@@ -444,7 +444,7 @@
             "last_commit": "2026-07-23T16:16:41Z",
             "owner": "StamusNetworks",
             "repo": "suricata-language-server",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -573,10 +573,10 @@
             "archived": false,
             "id": 186475440,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:18Z",
+            "last_commit": "2026-08-19T22:52:58Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2489
+            "stars": 2491
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2019-01-02T11:19:51Z",
             "owner": "fox-it",
             "repo": "quantuminsert",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -699,10 +699,10 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-19T02:02:25Z",
+            "last_commit": "2026-08-19T16:56:17Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 23
+            "stars": 27
           }
         },
         {
@@ -1070,10 +1070,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:42.588Z",
+    "last_updated": "2026-08-20T09:47:56.988Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_id": 564772414,
-    "original_repository_sha": "c5146fbee9a03965ce8f8d2dade078e3fb0d0ed4",
+    "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
     "enhanced_repository": "enhansome/enhansome-suricata",
     "enhanced_repository_description": null,
     "title": "Awesome Suricata with stars"
