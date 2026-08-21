@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,760 | 🐛 389 | 🌐 Go | 📅 2026-08-19 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,763 | 🐛 394 | 🌐 Go | 📅 2026-08-19 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -85,7 +85,7 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,491 | 🐛 143 | 🌐 Python | 📅 2026-08-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,491 | 🐛 153 | 🌐 Python | 📅 2026-08-20 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 496 | 🐛 9 | 🌐 Rust | 📅 2026-08-14 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
@@ -95,8 +95,8 @@
 * [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 181 | 🐛 0 | 📅 2026-05-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 89 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 32 | 🐛 0 | 🌐 CSS | 📅 2026-07-21 - OISF's curated, machine-readable list of sources used by Suricata-Update.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2026-08-20 - Suricata rules and datasets to detect phishing attacks.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Suricata rules and datasets to detect phishing attacks.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
 * [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) ⭐ 4 | 🐛 1 | 📅 2026-02-25 - Set of Suricata rules published by QuadrantSec.
 * [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
@@ -141,7 +141,7 @@
 
 ## Simulation and Testing
 
-* [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
+* [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 616 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
 * [Dalton](https://github.com/secureworks/dalton) ⭐ 520 | 🐛 24 | 🌐 Python | 📅 2026-05-28 - Suricata and Snort IDS rule and pcap testing system.
 * [speeve](https://github.com/satta/speeve) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-07-03 - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
 
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

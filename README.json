@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T16:27:33Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17760
+            "stars": 17763
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2025-07-10T21:36:27Z",
             "owner": "jasonish",
             "repo": "py-idstools",
-            "stars": 287
+            "stars": 286
           }
         },
         {
@@ -573,7 +573,7 @@
             "archived": false,
             "id": 186475440,
             "language": "Python",
-            "last_commit": "2026-08-19T22:52:58Z",
+            "last_commit": "2026-08-20T19:52:56Z",
             "owner": "cisagov",
             "repo": "Malcolm",
             "stars": 2491
@@ -677,6 +677,21 @@
         },
         {
           "node_type": "item",
+          "title": "Antiphishing",
+          "description": "Suricata rules and datasets to detect phishing attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815329211,
+            "language": "Python",
+            "last_commit": "2026-08-20T16:13:07Z",
+            "owner": "julioliraup",
+            "repo": "Antiphishing",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nids-rule-library",
           "description": "Collection of various open-source and commercial rulesets.",
           "children": [],
@@ -688,21 +703,6 @@
             "owner": "klingerko",
             "repo": "nids-rule-library",
             "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Antiphishing",
-          "description": "Suricata rules and datasets to detect phishing attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 815329211,
-            "language": "Python",
-            "last_commit": "2026-08-19T16:56:17Z",
-            "owner": "julioliraup",
-            "repo": "Antiphishing",
-            "stars": 27
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2024-11-28T23:20:58Z",
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 617
+            "stars": 616
           }
         },
         {
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:47:56.988Z",
+    "last_updated": "2026-08-21T09:50:00.469Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_id": 564772414,
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
