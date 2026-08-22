@@ -108,10 +108,10 @@
             "archived": false,
             "id": 33258973,
             "language": "Go",
-            "last_commit": "2026-08-19T16:27:33Z",
+            "last_commit": "2026-08-21T19:06:08Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17763
+            "stars": 17764
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-20T19:52:56Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2491
+            "stars": 2492
           }
         },
         {
@@ -662,6 +662,21 @@
         },
         {
           "node_type": "item",
+          "title": "Antiphishing",
+          "description": "Suricata rules and datasets to detect phishing attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815329211,
+            "language": "Python",
+            "last_commit": "2026-08-22T05:48:25Z",
+            "owner": "julioliraup",
+            "repo": "Antiphishing",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Suricata Ruleset Index",
           "description": "OISF's curated, machine-readable list of sources used by Suricata-Update.",
           "children": [],
@@ -673,21 +688,6 @@
             "owner": "OISF",
             "repo": "suricata-intel-index",
             "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Antiphishing",
-          "description": "Suricata rules and datasets to detect phishing attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 815329211,
-            "language": "Python",
-            "last_commit": "2026-08-20T16:13:07Z",
-            "owner": "julioliraup",
-            "repo": "Antiphishing",
-            "stars": 30
           }
         },
         {
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:50:00.469Z",
+    "last_updated": "2026-08-22T09:38:07.904Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_id": 564772414,
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
