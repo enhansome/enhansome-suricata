@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T19:06:08Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17764
+            "stars": 17763
           }
         },
         {
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-22T05:48:25Z",
+            "last_commit": "2026-08-22T21:19:24Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:38:07.904Z",
+    "last_updated": "2026-08-23T09:38:38.838Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_id": 564772414,
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
