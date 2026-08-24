@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T19:06:08Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17763
+            "stars": 17764
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-20T19:52:56Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2492
+            "stars": 2494
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2025-11-10T18:48:31Z",
             "owner": "aleksibovellan",
             "repo": "opnsense-suricata-nmaps",
-            "stars": 89
+            "stars": 88
           }
         },
         {
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-22T21:19:24Z",
+            "last_commit": "2026-08-24T02:36:04Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
             "stars": 33
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:38:38.838Z",
+    "last_updated": "2026-08-24T09:59:57.737Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_id": 564772414,
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
