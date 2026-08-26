@@ -108,7 +108,7 @@
             "archived": false,
             "id": 33258973,
             "language": "Go",
-            "last_commit": "2026-08-25T09:48:29Z",
+            "last_commit": "2026-08-25T16:08:05Z",
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17765
@@ -573,10 +573,10 @@
             "archived": false,
             "id": 186475440,
             "language": "Python",
-            "last_commit": "2026-08-24T21:38:41Z",
+            "last_commit": "2026-08-25T22:26:12Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2496
+            "stars": 2497
           }
         },
         {
@@ -588,7 +588,7 @@
             "archived": false,
             "id": 20077214,
             "language": "Rust",
-            "last_commit": "2026-08-14T22:55:33Z",
+            "last_commit": "2026-08-26T06:28:55Z",
             "owner": "jasonish",
             "repo": "evebox",
             "stars": 496
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-25T05:38:36Z",
+            "last_commit": "2026-08-25T20:23:29Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 33
+            "stars": 35
           }
         },
         {
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:48:56.674Z",
+    "last_updated": "2026-08-26T09:54:11.033Z",
     "original_repository": "satta/awesome-suricata",
     "original_repository_id": 564772414,
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
