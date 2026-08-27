@@ -111,7 +111,7 @@
             "last_commit": "2026-08-26T18:55:34Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17770
+            "stars": 17773
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 462348716,
             "language": "Go",
-            "last_commit": "2026-06-09T13:37:17Z",
+            "last_commit": "2026-08-27T16:47:18Z",
             "owner": "corelight",
             "repo": "suricata_exporter",
             "stars": 27
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-27T01:36:00Z",
+            "last_commit": "2026-08-27T17:00:11Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -1070,7 +1070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:52.615Z",
+    "last_updated": "2026-08-27T19:49:02.445Z",
     "original_repository_info": {
       "archived": false,
       "id": 564772414,
