@@ -108,10 +108,10 @@
             "archived": false,
             "id": 33258973,
             "language": "Go",
-            "last_commit": "2026-08-25T16:08:05Z",
+            "last_commit": "2026-08-26T18:55:34Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17765
+            "stars": 17770
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-25T22:26:12Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2497
+            "stars": 2498
           }
         },
         {
@@ -588,7 +588,7 @@
             "archived": false,
             "id": 20077214,
             "language": "Rust",
-            "last_commit": "2026-08-26T06:28:55Z",
+            "last_commit": "2026-08-26T23:30:04Z",
             "owner": "jasonish",
             "repo": "evebox",
             "stars": 496
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-25T20:23:29Z",
+            "last_commit": "2026-08-27T01:36:00Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
             "stars": 35
@@ -753,7 +753,7 @@
             "last_commit": "2026-05-22T07:16:42Z",
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 680
+            "stars": 681
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2025-09-13T15:38:46Z",
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1591
+            "stars": 1592
           }
         },
         {
@@ -894,7 +894,7 @@
             "last_commit": "2026-07-19T20:36:58Z",
             "owner": "FCSC-FR",
             "repo": "shovel",
-            "stars": 99
+            "stars": 100
           }
         },
         {
@@ -1070,9 +1070,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:54:11.033Z",
-    "original_repository": "satta/awesome-suricata",
-    "original_repository_id": 564772414,
+    "last_updated": "2026-08-27T12:06:52.615Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 564772414,
+      "language": null,
+      "last_commit": "2026-08-20T09:28:44Z",
+      "owner": "satta",
+      "repo": "awesome-suricata",
+      "stars": 246
+    },
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
     "enhanced_repository": "enhansome/enhansome-suricata",
     "enhanced_repository_description": null,
