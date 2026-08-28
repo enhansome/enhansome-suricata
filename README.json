@@ -16,7 +16,8 @@
             "owner": "pevma",
             "repo": "Suricata-Logstash-Templates",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "DCSO",
             "repo": "fever",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "quadrantsec",
             "repo": "meer",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Center-Sun",
             "repo": "suricata-kafka-output",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jasonish",
             "repo": "suricata-redis-output",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "VVelox",
             "repo": "Lilith",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Output Tools"
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-26T18:55:34Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17773
-          }
+            "stars": 17777
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "jasonish",
             "repo": "docker-suricata",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "regit",
             "repo": "suri-stats",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 462348716,
             "language": "Go",
-            "last_commit": "2026-08-27T16:47:18Z",
+            "last_commit": "2026-08-27T21:56:15Z",
             "owner": "corelight",
             "repo": "suricata_exporter",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "DCSO",
             "repo": "slinkwatch",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "aaronphifer",
             "repo": "triagewall",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "onetwopunch",
             "repo": "terraform-google-suricata",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "pevma",
             "repo": "MassDeploySuricata",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "DCSO",
             "repo": "mauerspecht",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "VVelox",
             "repo": "Suricata-Monitoring",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "GitMirar",
             "repo": "ansible-suricata",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Operations, Monitoring and Troubleshooting"
@@ -283,7 +300,8 @@
             "owner": "jasonish",
             "repo": "py-idstools",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "google",
             "repo": "gonids",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "m-chrome",
             "repo": "py-suricataparser",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "rhaist",
             "repo": "surevego",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "jasonish",
             "repo": "suricatax-rule-parser-rs",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "ks2211",
             "repo": "go-suricata",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Programming Libraries and Toolkits"
@@ -379,7 +402,8 @@
             "owner": "StamusNetworks",
             "repo": "KTS7",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "StamusNetworks",
             "repo": "KTS5",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "StamusNetworks",
             "repo": "KTS",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "StamusNetworks",
             "repo": "KTS6",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Dashboards and Templates"
@@ -445,7 +472,8 @@
             "owner": "StamusNetworks",
             "repo": "suricata-language-server",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "ozuriexv",
             "repo": "SublimeSuricata",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "dgenzer",
             "repo": "suricata-highlight-vscode",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "StamusNetworks",
             "repo": "suricata-ls-vscode",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Development Tools"
@@ -511,7 +542,8 @@
             "owner": "pevma",
             "repo": "SEPTun",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "pevma",
             "repo": "SEPTun-Mark-II",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "StamusNetworks",
             "repo": "suricata-4-analysts",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "sidallocation",
             "repo": "suricata-style-guide",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Documentation and Guides"
@@ -576,8 +611,9 @@
             "last_commit": "2026-08-25T22:26:12Z",
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2498
-          }
+            "stars": 2500
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "jasonish",
             "repo": "evebox",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "StamusNetworks",
             "repo": "suricata-analytics",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Analysis Tools"
@@ -628,7 +666,8 @@
             "owner": "fox-it",
             "repo": "quantuminsert",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -643,7 +682,8 @@
             "owner": "travisbgreen",
             "repo": "hunting-rules",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -658,7 +698,8 @@
             "owner": "aleksibovellan",
             "repo": "opnsense-suricata-nmaps",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -669,11 +710,12 @@
             "archived": false,
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-27T17:00:11Z",
+            "last_commit": "2026-08-28T07:23:57Z",
             "owner": "julioliraup",
             "repo": "Antiphishing",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "OISF",
             "repo": "suricata-intel-index",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "klingerko",
             "repo": "nids-rule-library",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -718,7 +762,8 @@
             "owner": "Cluster25",
             "repo": "detection",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -733,7 +778,8 @@
             "owner": "quadrantsec",
             "repo": "suricata-rules",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Rule Sets and Lists"
@@ -754,7 +800,8 @@
             "owner": "StamusNetworks",
             "repo": "scirius",
             "stars": 681
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "AlienVault-OTX",
             "repo": "OTX-Suricata",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -784,7 +832,8 @@
             "owner": "secureworks",
             "repo": "aristotle",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -799,7 +848,8 @@
             "owner": "sebdraven",
             "repo": "IOCmite",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -814,7 +864,8 @@
             "owner": "theY4Kman",
             "repo": "suricata-prettifier",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -829,7 +880,8 @@
             "owner": "dgenzer",
             "repo": "surify-cli",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -844,7 +896,8 @@
             "owner": "regit",
             "repo": "luaevilbit",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Rule/Security Content Management and Handling"
@@ -865,7 +918,8 @@
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
             "stars": 1592
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -880,7 +934,8 @@
             "owner": "StamusNetworks",
             "repo": "Amsterdam",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -895,7 +950,8 @@
             "owner": "FCSC-FR",
             "repo": "shovel",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -910,7 +966,8 @@
             "owner": "dtouzeau",
             "repo": "artica-suricata",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Systems Using Suricata"
@@ -931,7 +988,8 @@
             "owner": "ccdcoe",
             "repo": "CDMCS",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1004,8 @@
             "owner": "jasonish",
             "repo": "experimental-suricata-training",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Training"
@@ -967,7 +1026,8 @@
             "owner": "ReversecLabs",
             "repo": "leonidas",
             "stars": 616
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1042,8 @@
             "owner": "secureworks",
             "repo": "dalton",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1058,8 @@
             "owner": "satta",
             "repo": "speeve",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Simulation and Testing"
@@ -1018,7 +1080,8 @@
             "owner": "regit",
             "repo": "suriwire",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1096,8 @@
             "owner": "SEc-123",
             "repo": "SuriGuard1",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1112,8 @@
             "owner": "control-owl",
             "repo": "suriGUI",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         },
         {
           "node_type": "item",
@@ -1063,14 +1128,15 @@
             "owner": "isMTv",
             "repo": "bash_cata",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:49:22.516Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:49:02.445Z",
+    "last_updated": "2026-08-28T20:49:22.516Z",
     "original_repository_info": {
       "archived": false,
       "id": 564772414,
