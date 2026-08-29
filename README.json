@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templates for Kibana/Logstash to use with Suricata IDPS",
+            "homepage": null,
             "id": 18270560,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2016-03-12T01:35:33Z",
+            "open_issues": 3,
             "owner": "pevma",
             "repo": "Suricata-Logstash-Templates",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -26,12 +31,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fast, extensible, versatile event router for Suricata's EVE-JSON format",
+            "homepage": null,
             "id": 154524897,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-24T23:55:49Z",
+            "open_issues": 2,
             "owner": "DCSO",
             "repo": "fever",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "bloom-filter",
+              "eve",
+              "golang",
+              "intrusion-detection",
+              "json",
+              "monitoring",
+              "netsec",
+              "pdns",
+              "security",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meer is a \"spooler\" for Suricata / Sagan.",
+            "homepage": null,
             "id": 331468073,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2023-06-21T10:52:04Z",
+            "open_issues": 8,
             "owner": "quadrantsec",
             "repo": "meer",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -58,12 +84,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "provides a Suricata Eve output for Kafka with Suricate Eve plugin",
+            "homepage": null,
             "id": 427856689,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-11-25T08:32:12Z",
+            "open_issues": 2,
             "owner": "Center-Sun",
             "repo": "suricata-kafka-output",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "intrusion-detection",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -74,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata Eve Redis Output Plugin",
+            "homepage": null,
             "id": 373324178,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-13T23:10:36Z",
+            "open_issues": 1,
             "owner": "jasonish",
             "repo": "suricata-redis-output",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -90,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reads EVE files into SQL as well as search stored data.",
+            "homepage": null,
             "id": 581542098,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-25T18:57:56Z",
+            "open_issues": 0,
             "owner": "VVelox",
             "repo": "Lilith",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -112,12 +156,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+            "homepage": "https://influxdata.com/telegraf",
             "id": 33258973,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:55:34Z",
+            "open_issues": 427,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17777
+            "stars": 17776,
+            "topics": [
+              "golang",
+              "hacktoberfest",
+              "influxdb",
+              "json",
+              "kafka",
+              "logs",
+              "metrics",
+              "modbus",
+              "monitoring",
+              "mqtt",
+              "opcua",
+              "t",
+              "telegraf",
+              "telemetry-collection",
+              "time-series",
+              "windows-eventlog",
+              "xpath"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -128,12 +195,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Suricata Docker image.",
+            "homepage": "https://hub.docker.com/r/jasonish/suricata/",
             "id": 41530307,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-14T13:51:35Z",
+            "open_issues": 2,
             "owner": "jasonish",
             "repo": "docker-suricata",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "container",
+              "docker",
+              "ids",
+              "nsm",
+              "podman",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -144,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tools to work on suricata stats.log file.",
+            "homepage": null,
             "id": 5260288,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2015-10-14T16:07:33Z",
+            "open_issues": 0,
             "owner": "regit",
             "repo": "suri-stats",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -160,12 +244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus Exporter for Suricata",
+            "homepage": null,
             "id": 462348716,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T21:56:15Z",
+            "open_issues": 2,
             "owner": "corelight",
             "repo": "suricata_exporter",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "prometheus",
+              "prometheus-exporter",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -176,12 +269,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "automatic enumeration and maintenance of Suricata monitoring interfaces",
+            "homepage": null,
             "id": 155190473,
             "language": "Go",
+            "license": "GPL-2.0",
             "last_commit": "2019-12-10T16:18:23Z",
+            "open_issues": 6,
             "owner": "DCSO",
             "repo": "slinkwatch",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "automation",
+              "ifplugd",
+              "interfaces",
+              "intrusion-detection",
+              "network",
+              "network-monitoring",
+              "sensor-management",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -192,12 +299,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-LLM alert triage for self-hosted SOCs.",
+            "homepage": "https://triagewall.io",
             "id": 1227519848,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T17:30:30Z",
+            "open_issues": 6,
             "owner": "aaronphifer",
             "repo": "triagewall",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "homelab",
+              "ids",
+              "llm",
+              "ollama",
+              "security",
+              "self-hosted",
+              "selfhosted",
+              "siem",
+              "suricata",
+              "wazuh"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -208,12 +331,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform module to setup Google Cloud packet mirroring and send packets to Suricata IDS",
+            "homepage": null,
             "id": 350510389,
             "language": "HCL",
+            "license": null,
             "last_commit": "2022-08-02T18:08:29Z",
+            "open_issues": 0,
             "owner": "onetwopunch",
             "repo": "terraform-google-suricata",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "ids",
+              "suricata",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -224,12 +356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mass deploy and update Suricata IDPS using Ansible IT automation platform",
+            "homepage": null,
             "id": 16664028,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2014-12-07T11:31:16Z",
+            "open_issues": 0,
             "owner": "pevma",
             "repo": "MassDeploySuricata",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -240,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Probing Tool for Corporate Walled Garden Networks",
+            "homepage": null,
             "id": 194120481,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-14T10:40:17Z",
+            "open_issues": 0,
             "owner": "DCSO",
             "repo": "mauerspecht",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -256,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibreNMS JSON / Nagios monitor for Suricata stats.",
+            "homepage": null,
             "id": 481641879,
             "language": "Perl",
+            "license": null,
             "last_commit": "2024-06-04T04:24:08Z",
+            "open_issues": 0,
             "owner": "VVelox",
             "repo": "Suricata-Monitoring",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -272,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "deploys suricata from stretch-backports on a Debian 9 target",
+            "homepage": null,
             "id": 139066446,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2018-06-30T09:39:30Z",
+            "open_issues": 0,
             "owner": "GitMirar",
             "repo": "ansible-suricata",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -294,12 +446,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "idstools: Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool)",
+            "homepage": null,
             "id": 11379148,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-10T21:36:27Z",
+            "open_issues": 25,
             "owner": "jasonish",
             "repo": "py-idstools",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "ids",
+              "intrusion-detection",
+              "snort",
+              "suricata",
+              "unified2"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -310,12 +473,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available that you can join on Google Groups: https://groups.google.com/forum/#!topic/gonids/",
+            "homepage": null,
             "id": 74061816,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T22:27:17Z",
+            "open_issues": 2,
             "owner": "google",
             "repo": "gonids",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "ids",
+              "network",
+              "network-security",
+              "parse",
+              "security-tools",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -326,12 +501,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure python parser for Snort/Suricata rules.",
+            "homepage": null,
             "id": 284443452,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-13T14:30:57Z",
+            "open_issues": 2,
             "owner": "m-chrome",
             "repo": "py-suricataparser",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "python3",
+              "snort-rules",
+              "snort-rules-generate",
+              "suricata-rule",
+              "suricata-rules"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -342,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "suricata eve.json parser in Go",
+            "homepage": null,
             "id": 79928561,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-05-16T14:54:52Z",
+            "open_issues": 0,
             "owner": "rhaist",
             "repo": "surevego",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -358,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 422233289,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T23:00:18Z",
+            "open_issues": 0,
             "owner": "jasonish",
             "repo": "suricatax-rule-parser-rs",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -374,12 +570,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Client for Suricata (Interacting via Socket)",
+            "homepage": null,
             "id": 232228991,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-08-23T20:09:13Z",
+            "open_issues": 5,
             "owner": "ks2211",
             "repo": "go-suricata",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "client",
+              "go",
+              "golang",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -396,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kibana 7 Templates for Suricata IDPS Threat Hunting",
+            "homepage": null,
             "id": 254355204,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-04-26T08:25:57Z",
+            "open_issues": 5,
             "owner": "StamusNetworks",
             "repo": "KTS7",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -412,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Kibana 5 Templates for Suricata IDPS ",
+            "homepage": null,
             "id": 87560448,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-05-30T07:19:14Z",
+            "open_issues": 4,
             "owner": "StamusNetworks",
             "repo": "KTS5",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -428,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kibana 4 Templates for Suricata IDPS",
+            "homepage": null,
             "id": 53705056,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2016-07-28T10:43:58Z",
+            "open_issues": 3,
             "owner": "StamusNetworks",
             "repo": "KTS",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -444,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kibana 6 Templates for Suricata IDPS Threat Hunting  ",
+            "homepage": null,
             "id": 150583471,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-03-05T10:22:42Z",
+            "open_issues": 5,
             "owner": "StamusNetworks",
             "repo": "KTS6",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -466,12 +692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata Language Server is an implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.",
+            "homepage": null,
             "id": 444084405,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-23T16:16:41Z",
+            "open_issues": 0,
             "owner": "StamusNetworks",
             "repo": "suricata-language-server",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -482,12 +713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 134185061,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-09T10:05:42Z",
+            "open_issues": 1,
             "owner": "ozuriexv",
             "repo": "SublimeSuricata",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -498,12 +734,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax highlighting for suricata rules",
+            "homepage": null,
             "id": 174539901,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-26T12:52:40Z",
+            "open_issues": 0,
             "owner": "dgenzer",
             "repo": "suricata-highlight-vscode",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "highlight",
+              "suricata",
+              "syntax",
+              "visual-studio-code",
+              "vscode",
+              "vscode-language"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -514,12 +762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VScode part of the Suricata Language Server",
+            "homepage": null,
             "id": 444752143,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-16T13:00:23Z",
+            "open_issues": 0,
             "owner": "StamusNetworks",
             "repo": "suricata-ls-vscode",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -536,12 +789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata Extreme Performance Tuning guide",
+            "homepage": null,
             "id": 77237198,
             "language": "Makefile",
+            "license": "GPL-2.0",
             "last_commit": "2018-03-15T21:30:41Z",
+            "open_issues": 2,
             "owner": "pevma",
             "repo": "SEPTun",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -552,12 +810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Suricata Extreme Performance Tuning guide - Mark II",
+            "homepage": null,
             "id": 124362164,
             "language": "Makefile",
+            "license": "GPL-2.0",
             "last_commit": "2018-04-17T12:55:25Z",
+            "open_issues": 2,
             "owner": "pevma",
             "repo": "SEPTun-Mark-II",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -568,12 +831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Security Analyst’s Guide to Suricata",
+            "homepage": null,
             "id": 555430913,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-04-28T18:12:50Z",
+            "open_issues": 3,
             "owner": "StamusNetworks",
             "repo": "suricata-4-analysts",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -584,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata community style guide",
+            "homepage": null,
             "id": 754216573,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-27T22:19:08Z",
+            "open_issues": 4,
             "owner": "sidallocation",
             "repo": "suricata-style-guide",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -606,12 +879,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
+            "homepage": "https://cisagov.github.io/Malcolm/",
             "id": 186475440,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T22:26:12Z",
+            "open_issues": 160,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2500
+            "stars": 2500,
+            "topics": [
+              "arkime",
+              "cybersecurity",
+              "infosec",
+              "network-security",
+              "network-traffic-analysis",
+              "networksecurity",
+              "networktrafficanalysis",
+              "opensearch",
+              "opensearch-dashboards",
+              "pcap",
+              "security",
+              "suricata",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -622,12 +914,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search",
+            "homepage": "https://evebox.org/",
             "id": 20077214,
             "language": "Rust",
-            "last_commit": "2026-08-26T23:30:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:20:22Z",
+            "open_issues": 5,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "ids",
+              "ips",
+              "netsec",
+              "nsm",
+              "security",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -638,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 470601757,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-11-20T17:10:56Z",
+            "open_issues": 0,
             "owner": "StamusNetworks",
             "repo": "suricata-analytics",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -660,12 +969,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quantum Insert",
+            "homepage": null,
             "id": 34398893,
             "language": "HTML",
+            "license": "Unlicense",
             "last_commit": "2019-01-02T11:19:51Z",
+            "open_issues": 0,
             "owner": "fox-it",
             "repo": "quantuminsert",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "detection",
+              "ids",
+              "man-on-the-side",
+              "pcap",
+              "python",
+              "quantum-insert"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -676,12 +997,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata rules for network anomaly detection",
+            "homepage": "http://travisgreen.net",
             "id": 157105415,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-05-07T20:18:06Z",
+            "open_issues": 0,
             "owner": "travisbgreen",
             "repo": "hunting-rules",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "anomaly-detection",
+              "cyber-threat-intelligence",
+              "cybersecurity",
+              "ids",
+              "lateral-movement",
+              "network-monitoring",
+              "network-security",
+              "nsm",
+              "suricata",
+              "suricata-rule",
+              "threat-hunting",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -692,12 +1031,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans",
+            "homepage": null,
             "id": 649471028,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-10T18:48:31Z",
+            "open_issues": 2,
             "owner": "aleksibovellan",
             "repo": "opnsense-suricata-nmaps",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "crowdsec",
+              "ids",
+              "intrusion-detection",
+              "intrusion-detection-system",
+              "intrusion-prevention",
+              "intrusion-prevention-system",
+              "ips",
+              "nmap",
+              "nmap-results-analyse",
+              "nmap-scan",
+              "nmap-scans",
+              "opnsense",
+              "opnsense-firewall",
+              "opnsense-plugins",
+              "pfsense",
+              "port-scan",
+              "port-scanning",
+              "suricata",
+              "suricata-rule",
+              "suricata-rules"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -708,12 +1073,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Phishing Protection: Suricata rulesets open and free",
+            "homepage": "https://julioliraup.github.io/AT",
             "id": 815329211,
             "language": "Python",
-            "last_commit": "2026-08-28T07:23:57Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T03:22:14Z",
+            "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "anti-phishing",
+              "antiphishing",
+              "detection-engineering",
+              "idps",
+              "ids",
+              "ips",
+              "ndr",
+              "network-monitoring",
+              "network-security",
+              "openphish",
+              "otx",
+              "phishing",
+              "phishstats",
+              "ruleset",
+              "siem",
+              "soc",
+              "suricata",
+              "suricata-rule",
+              "suricata-rules",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -724,12 +1115,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata rule and intel index",
+            "homepage": "https://rules.suricata.io",
             "id": 162181827,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-07-21T19:56:58Z",
+            "open_issues": 0,
             "owner": "OISF",
             "repo": "suricata-intel-index",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "ids",
+              "intel",
+              "ips",
+              "nsm",
+              "rules",
+              "security",
+              "signatures",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -740,12 +1145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of various open-source an commercial rulesets for NIDS (especially for Suricata and Snort)",
+            "homepage": null,
             "id": 201604401,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-07-24T14:29:59Z",
+            "open_issues": 0,
             "owner": "klingerko",
             "repo": "nids-rule-library",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -756,12 +1166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threat Detection Rules (Snort/Sigma/Yara)",
+            "homepage": null,
             "id": 399954908,
             "language": "YARA",
+            "license": null,
             "last_commit": "2024-01-23T17:35:31Z",
+            "open_issues": 0,
             "owner": "Cluster25",
             "repo": "detection",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -772,12 +1187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 556800320,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2026-02-25T17:14:49Z",
+            "open_issues": 1,
             "owner": "quadrantsec",
             "repo": "suricata-rules",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -794,12 +1214,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scirius is a web application for Suricata ruleset management and threat hunting.",
+            "homepage": null,
             "id": 19433880,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-22T07:16:42Z",
+            "open_issues": 118,
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 681
+            "stars": 681,
+            "topics": [
+              "cybersecurity",
+              "detection",
+              "gui",
+              "interface",
+              "management",
+              "network-intrusion-detection",
+              "network-security",
+              "python",
+              "security",
+              "signatures",
+              "suricata",
+              "suricata-rules",
+              "threat-hunting",
+              "user-interface"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -810,12 +1250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OTX Suricata Rule Generator can be used to create the rules and configuration for Suricata to alert on indicators from your OTX account.",
+            "homepage": "https://otx.alienvault.com",
             "id": 52397738,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-26T13:13:08Z",
+            "open_issues": 10,
             "owner": "AlienVault-OTX",
             "repo": "OTX-Suricata",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -826,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 202765818,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T21:33:01Z",
+            "open_issues": 0,
             "owner": "secureworks",
             "repo": "aristotle",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -842,12 +1292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert",
+            "homepage": null,
             "id": 372456561,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-09T15:41:50Z",
+            "open_issues": 7,
             "owner": "sebdraven",
             "repo": "IOCmite",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -858,12 +1313,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line tool to format and syntax highlight Suricata rules",
+            "homepage": "https://pypi.org/project/suricata-prettifier/",
             "id": 135872304,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-11-30T03:14:50Z",
+            "open_issues": 0,
             "owner": "theY4Kman",
             "repo": "suricata-prettifier",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "python",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -874,12 +1337,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧙🏼‍♂️Generate suricata-rules from collection of IOCs (JSON, CSV or flags) based on your suricata template.",
+            "homepage": null,
             "id": 176490866,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-10T22:38:17Z",
+            "open_issues": 2,
             "owner": "dgenzer",
             "repo": "surify-cli",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "generator",
+              "rules",
+              "ruleset",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -890,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lua implementation of RFC 3514 for suricata",
+            "homepage": null,
             "id": 6813004,
             "language": "Lua",
+            "license": null,
             "last_commit": "2012-11-22T14:06:00Z",
+            "open_issues": 0,
             "owner": "regit",
             "repo": "luaevilbit",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -912,12 +1390,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Suricata based NDR distribution",
+            "homepage": "https://docs.clearndr.io/",
             "id": 19819796,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-13T15:38:46Z",
+            "open_issues": 219,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1592
+            "stars": 1592,
+            "topics": [
+              "distribution",
+              "gui",
+              "ids",
+              "ips",
+              "linux",
+              "management",
+              "monitoring",
+              "network",
+              "network-intrusion-detection",
+              "network-security",
+              "security",
+              "security-monitoring",
+              "suricata",
+              "threat-hunting",
+              "user-interface"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -928,12 +1427,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS",
+            "homepage": null,
             "id": 41256956,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-13T07:25:49Z",
+            "open_issues": 11,
             "owner": "StamusNetworks",
             "repo": "Amsterdam",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -944,12 +1448,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web interface to explore Suricata EVE outputs",
+            "homepage": null,
             "id": 716617119,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-19T20:36:58Z",
+            "open_issues": 3,
             "owner": "FCSC-FR",
             "repo": "shovel",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "attack-defense-ctf",
+              "ctf",
+              "ecsc",
+              "ecsc2023",
+              "ecsc2024",
+              "network-monitor",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -960,12 +1477,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep network visibility, powered by Suricata. Artica integrates the Suricata IDS engine directly inside your server, giving you enterprise-grade intrusion detection without the complexity. Monitor every packet in real time, detect advanced threats, and visualize malicious",
+            "homepage": "https://wiki.articatech.com/en/network/ids",
             "id": 1078467933,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-12-01T00:56:42Z",
+            "open_issues": 0,
             "owner": "dtouzeau",
             "repo": "artica-suricata",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "appliance",
+              "network-monitoring",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -982,12 +1508,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cyber Defence Monitoring Course Suite :: Suricata, Arkime (and others in the past)",
+            "homepage": null,
             "id": 67401647,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-06-22T11:59:19Z",
+            "open_issues": 0,
             "owner": "ccdcoe",
             "repo": "CDMCS",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "arkime",
+              "classroom",
+              "moloch",
+              "monitoring",
+              "network-monitoring",
+              "nsm",
+              "observability",
+              "packet-capture",
+              "packet-capture-and-analysis",
+              "security-monitoring",
+              "suricata",
+              "training"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -998,12 +1542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 512931938,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-03-08T05:40:37Z",
+            "open_issues": 0,
             "owner": "jasonish",
             "repo": "experimental-suricata-training",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -1020,12 +1569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Attack Simulation in the Cloud, complete with detection use cases.",
+            "homepage": null,
             "id": 274744266,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-28T23:20:58Z",
+            "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -1036,12 +1590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suricata, Snort and Zeek IDS rule and pcap testing system",
+            "homepage": null,
             "id": 100408000,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-28T14:26:26Z",
+            "open_issues": 24,
             "owner": "secureworks",
             "repo": "dalton",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -1052,12 +1611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "speeve spews EVE",
+            "homepage": null,
             "id": 275032881,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-03T05:26:47Z",
+            "open_issues": 0,
             "owner": "satta",
             "repo": "speeve",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -1074,12 +1638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wireshark plugin to display Suricata analysis info",
+            "homepage": "https://home.regit.org/software/suriwire",
             "id": 2478657,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-05T07:46:02Z",
+            "open_issues": 2,
             "owner": "regit",
             "repo": "suriwire",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -1090,12 +1659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 907315834,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-01T13:32:41Z",
+            "open_issues": 2,
             "owner": "SEc-123",
             "repo": "SuriGuard1",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -1106,12 +1680,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GUI for Suricata + Qubes OS",
+            "homepage": null,
             "id": 426988440,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-09-04T00:18:13Z",
+            "open_issues": 0,
             "owner": "control-owl",
             "repo": "suriGUI",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "debian",
+              "ips",
+              "linux",
+              "qubes",
+              "suricata"
+            ]
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         },
@@ -1122,12 +1707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple script that processes the generated Suricata eve-log in real time.",
+            "homepage": null,
             "id": 395222974,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-11T05:50:19Z",
+            "open_issues": 0,
             "owner": "isMTv",
             "repo": "bash_cata",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
         }
@@ -1136,15 +1726,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:49:22.516Z",
+    "last_updated": "2026-08-29T04:50:11.704Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Suricata",
+      "homepage": null,
       "id": 564772414,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-20T09:28:44Z",
+      "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
-      "stars": 246
+      "stars": 246,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ids",
+        "ips",
+        "lists",
+        "nsm",
+        "suricata"
+      ]
     },
     "original_repository_sha": "661a21dafe300b3a055937f7fe706c4973df80de",
     "enhanced_repository": "enhansome/enhansome-suricata",
