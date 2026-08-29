@@ -165,7 +165,7 @@
             "open_issues": 427,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17776,
+            "stars": 17779,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:11.704Z",
+    "last_updated": "2026-08-29T14:26:12.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
