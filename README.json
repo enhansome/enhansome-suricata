@@ -161,8 +161,8 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-26T18:55:34Z",
-            "open_issues": 428,
+            "last_commit": "2026-08-31T06:55:26Z",
+            "open_issues": 422,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17780,
@@ -304,7 +304,7 @@
             "id": 1227519848,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T01:21:34Z",
+            "last_commit": "2026-08-31T01:15:51Z",
             "open_issues": 7,
             "owner": "aaronphifer",
             "repo": "triagewall",
@@ -885,10 +885,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T22:26:12Z",
-            "open_issues": 160,
+            "open_issues": 164,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2500,
+            "stars": 2502,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1078,7 +1078,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T18:07:21Z",
+            "last_commit": "2026-08-31T12:34:08Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1124,7 +1124,7 @@
             "open_issues": 0,
             "owner": "OISF",
             "repo": "suricata-intel-index",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "ids",
               "intel",
@@ -1399,7 +1399,7 @@
             "open_issues": 219,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1592,
+            "stars": 1593,
             "topics": [
               "distribution",
               "gui",
@@ -1578,7 +1578,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:23:53.134Z",
+    "last_updated": "2026-08-31T17:02:05.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
