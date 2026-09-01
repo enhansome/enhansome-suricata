@@ -40,12 +40,12 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,780 | 🐛 422 | 🌐 Go | 📅 2026-08-31 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,785 | 🐛 425 | 🌐 Go | 📅 2026-09-01 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-08-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
 * [slinkwatch](https://github.com/DCSO/slinkwatch) ⭐ 12 | 🐛 6 | 🌐 Go | 📅 2019-12-10 - Automatic enumeration and maintenance of Suricata monitoring interfaces.
-* [TriageWall](https://github.com/aaronphifer/triagewall) ⭐ 11 | 🐛 7 | 🌐 Python | 📅 2026-08-31 - Local-first analyst workbench for triaging and investigating Suricata and Wazuh alerts with a tunable prefilter and Ollama classifier.
+* [TriageWall](https://github.com/aaronphifer/triagewall) ⭐ 11 | 🐛 7 | 🌐 Python | 📅 2026-09-01 - Local-first analyst workbench for triaging and investigating Suricata and Wazuh alerts with a tunable prefilter and Ollama classifier.
 * [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) ⭐ 10 | 🐛 0 | 🌐 HCL | 📅 2022-08-02 - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata.
 * [MassDeploySuricata](https://github.com/pevma/MassDeploySuricata) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2014-12-07 - Mass deploy and update Suricata IDPS using Ansible IT automation platform.
 * [Mauerspecht](https://github.com/DCSO/mauerspecht) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2025-03-14 - Simple Probing Tool for Corporate Walled Garden Networks.
@@ -85,7 +85,7 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,502 | 🐛 164 | 🌐 Python | 📅 2026-08-25 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,503 | 🐛 166 | 🌐 Python | 📅 2026-08-25 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 496 | 🐛 4 | 🌐 Rust | 📅 2026-08-29 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
@@ -94,7 +94,7 @@
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 215 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
 * [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 181 | 🐛 0 | 📅 2026-05-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 88 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-08-31 - Suricata rules and datasets to detect phishing attacks.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2026-09-01 - Suricata rules and datasets to detect phishing attacks.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 33 | 🐛 0 | 🌐 CSS | 📅 2026-07-21 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
