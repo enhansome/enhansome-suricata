@@ -36,7 +36,7 @@
             "id": 154524897,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-24T23:55:49Z",
+            "last_commit": "2026-09-02T08:11:13Z",
             "open_issues": 2,
             "owner": "DCSO",
             "repo": "fever",
@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T13:39:27Z",
-            "open_issues": 425,
+            "last_commit": "2026-09-02T12:45:53Z",
+            "open_issues": 419,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17785,
+            "stars": 17790,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -482,7 +482,7 @@
             "open_issues": 2,
             "owner": "google",
             "repo": "gonids",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "ids",
               "network",
@@ -885,7 +885,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T22:26:12Z",
-            "open_issues": 166,
+            "open_issues": 169,
             "owner": "cisagov",
             "repo": "Malcolm",
             "stars": 2503,
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "ids",
               "ips",
@@ -1078,7 +1078,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T08:55:57Z",
+            "last_commit": "2026-09-02T05:16:20Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:06:57.508Z",
+    "last_updated": "2026-09-02T13:35:40.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
