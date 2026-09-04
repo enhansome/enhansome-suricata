@@ -36,7 +36,7 @@
             "id": 154524897,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T08:11:13Z",
+            "last_commit": "2026-09-04T06:41:52Z",
             "open_issues": 2,
             "owner": "DCSO",
             "repo": "fever",
@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T18:50:54Z",
-            "open_issues": 423,
+            "last_commit": "2026-09-04T12:05:27Z",
+            "open_issues": 416,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17791,
+            "stars": 17792,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -888,7 +888,7 @@
             "open_issues": 171,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2504,
+            "stars": 2505,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1078,7 +1078,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T00:04:16Z",
+            "last_commit": "2026-09-04T08:40:49Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1223,7 +1223,7 @@
             "open_issues": 118,
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 681,
+            "stars": 682,
             "topics": [
               "cybersecurity",
               "detection",
@@ -1578,7 +1578,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 617,
+            "stars": 618,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1599,7 +1599,7 @@
             "open_issues": 24,
             "owner": "secureworks",
             "repo": "dalton",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:32:10.354Z",
+    "last_updated": "2026-09-04T13:29:01.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
