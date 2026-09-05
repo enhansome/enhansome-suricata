@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,792 | 🐛 416 | 🌐 Go | 📅 2026-09-04 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,796 | 🐛 413 | 🌐 Go | 📅 2026-09-04 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-08-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -86,7 +86,7 @@
 ## Analysis Tools
 
 * [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,505 | 🐛 171 | 🌐 Python | 📅 2026-08-25 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-* [Evebox](https://github.com/jasonish/evebox) ⭐ 498 | 🐛 4 | 🌐 Rust | 📅 2026-08-29 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+* [Evebox](https://github.com/jasonish/evebox) ⭐ 499 | 🐛 4 | 🌐 Rust | 📅 2026-08-29 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets and Lists
@@ -142,7 +142,7 @@
 ## Simulation and Testing
 
 * [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 618 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
-* [Dalton](https://github.com/secureworks/dalton) ⭐ 521 | 🐛 24 | 🌐 Python | 📅 2026-05-28 - Suricata and Snort IDS rule and pcap testing system.
+* [Dalton](https://github.com/secureworks/dalton) ⭐ 521 | 🐛 25 | 🌐 Python | 📅 2026-05-28 - Suricata and Snort IDS rule and pcap testing system.
 * [speeve](https://github.com/satta/speeve) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-07-03 - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
 
 ## Data Sets
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
