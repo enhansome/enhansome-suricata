@@ -162,10 +162,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-04T17:51:26Z",
-            "open_issues": 413,
+            "open_issues": 418,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17796,
+            "stars": 17795,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 499,
+            "stars": 500,
             "topics": [
               "ids",
               "ips",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:38:42.266Z",
+    "last_updated": "2026-09-06T12:51:31.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
