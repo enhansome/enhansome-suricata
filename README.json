@@ -161,8 +161,8 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:51:26Z",
-            "open_issues": 418,
+            "last_commit": "2026-09-07T14:52:49Z",
+            "open_issues": 407,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17795,
@@ -888,7 +888,7 @@
             "open_issues": 171,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2505,
+            "stars": 2506,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "ids",
               "ips",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:51:31.364Z",
+    "last_updated": "2026-09-07T15:01:47.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
