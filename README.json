@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T14:52:49Z",
+            "last_commit": "2026-09-08T13:24:33Z",
             "open_issues": 407,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17795,
+            "stars": 17796,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -178,7 +178,6 @@
               "monitoring",
               "mqtt",
               "opcua",
-              "t",
               "telegraf",
               "telemetry-collection",
               "time-series",
@@ -888,7 +887,7 @@
             "open_issues": 171,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2506,
+            "stars": 2505,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1078,7 +1077,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T08:40:49Z",
+            "last_commit": "2026-09-08T02:42:09Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1647,7 +1646,7 @@
             "open_issues": 2,
             "owner": "regit",
             "repo": "suriwire",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1726,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:01:47.866Z",
+    "last_updated": "2026-09-08T13:33:24.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
