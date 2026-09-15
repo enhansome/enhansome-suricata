@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,803 | 🐛 430 | 🌐 Go | 📅 2026-09-14 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,802 | 🐛 435 | 🌐 Go | 📅 2026-09-15 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-08-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -85,17 +85,17 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,510 | 🐛 173 | 🌐 Python | 📅 2026-09-14 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-* [Evebox](https://github.com/jasonish/evebox) ⭐ 501 | 🐛 5 | 🌐 Rust | 📅 2026-09-11 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,510 | 🐛 170 | 🌐 Python | 📅 2026-09-15 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Evebox](https://github.com/jasonish/evebox) ⭐ 501 | 🐛 4 | 🌐 Rust | 📅 2026-09-15 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets and Lists
 
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 215 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
-* [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 182 | 🐛 0 | 📅 2026-05-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
+* [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 183 | 🐛 0 | 📅 2026-05-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 88 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-09-14 - Suricata rules and datasets to detect phishing attacks.
-* [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 34 | 🐛 0 | 🌐 CSS | 📅 2026-07-21 - OISF's curated, machine-readable list of sources used by Suricata-Update.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-09-15 - Suricata rules and datasets to detect phishing attacks.
+* [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 34 | 🐛 0 | 🌐 CSS | 📅 2026-09-15 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
 * [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) ⭐ 4 | 🐛 1 | 📅 2026-02-25 - Set of Suricata rules published by QuadrantSec.
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
