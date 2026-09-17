@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T07:24:42Z",
-            "open_issues": 429,
+            "last_commit": "2026-09-17T13:51:14Z",
+            "open_issues": 415,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17804,
+            "stars": 17805,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -887,7 +887,7 @@
             "open_issues": 157,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2510,
+            "stars": 2511,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1077,11 +1077,11 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T21:43:44Z",
+            "last_commit": "2026-09-17T08:21:41Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "anti-phishing",
               "antiphishing",
@@ -1222,7 +1222,7 @@
             "open_issues": 118,
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 683,
+            "stars": 685,
             "topics": [
               "cybersecurity",
               "detection",
@@ -1276,7 +1276,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-21T21:33:01Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "secureworks",
             "repo": "aristotle",
             "stars": 39,
@@ -1577,7 +1577,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:10:26.465Z",
+    "last_updated": "2026-09-17T14:16:10.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
