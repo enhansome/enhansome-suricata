@@ -887,7 +887,7 @@
             "open_issues": 158,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2513,
+            "stars": 2523,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1077,7 +1077,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T22:32:10Z",
+            "last_commit": "2026-09-19T17:04:20Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1222,7 +1222,7 @@
             "open_issues": 118,
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "cybersecurity",
               "detection",
@@ -1598,7 +1598,7 @@
             "open_issues": 26,
             "owner": "secureworks",
             "repo": "dalton",
-            "stars": 521,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:05:45.904Z",
+    "last_updated": "2026-09-20T13:33:49.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1737,7 +1737,7 @@
       "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
-      "stars": 246,
+      "stars": 247,
       "topics": [
         "awesome",
         "awesome-list",

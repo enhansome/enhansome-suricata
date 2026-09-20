@@ -85,7 +85,7 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,513 | 🐛 158 | 🌐 Python | 📅 2026-09-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,523 | 🐛 158 | 🌐 Python | 📅 2026-09-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 501 | 🐛 4 | 🌐 Rust | 📅 2026-09-18 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
@@ -94,7 +94,7 @@
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 215 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
 * [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 183 | 🐛 0 | 📅 2026-05-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 88 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-09-18 - Suricata rules and datasets to detect phishing attacks.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-09-19 - Suricata rules and datasets to detect phishing attacks.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 34 | 🐛 1 | 🌐 CSS | 📅 2026-09-15 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 1 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
@@ -111,7 +111,7 @@
 
 ## Rule/Security Content Management and Handling
 
-* [Scirius](https://github.com/StamusNetworks/scirius) ⭐ 685 | 🐛 118 | 🌐 Python | 📅 2026-05-22 - Web application for Suricata ruleset management and threat hunting.
+* [Scirius](https://github.com/StamusNetworks/scirius) ⭐ 686 | 🐛 118 | 🌐 Python | 📅 2026-05-22 - Web application for Suricata ruleset management and threat hunting.
 * [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) ⭐ 121 | 🐛 10 | 🌐 Python | 📅 2024-04-26 - Create rules and configuration for Suricata to alert on indicators from an OTX account.
 * [Aristotle](https://github.com/secureworks/aristotle) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-07-21 - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
 * [IOCmite](https://github.com/sebdraven/IOCmite) ⭐ 37 | 🐛 7 | 🌐 Python | 📅 2022-11-09 - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
@@ -142,7 +142,7 @@
 ## Simulation and Testing
 
 * [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 620 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
-* [Dalton](https://github.com/secureworks/dalton) ⭐ 521 | 🐛 26 | 🌐 Python | 📅 2026-05-28 - Suricata and Snort IDS rule and pcap testing system.
+* [Dalton](https://github.com/secureworks/dalton) ⭐ 522 | 🐛 26 | 🌐 Python | 📅 2026-05-28 - Suricata and Snort IDS rule and pcap testing system.
 * [speeve](https://github.com/satta/speeve) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-07-03 - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
 
 ## Data Sets
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
