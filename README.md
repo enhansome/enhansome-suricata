@@ -40,8 +40,8 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,815 | 🐛 409 | 🌐 Go | 📅 2026-09-18 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
-* [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 331 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,821 | 🐛 411 | 🌐 Go | 📅 2026-09-21 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 332 | 🐛 2 | 🌐 Shell | 📅 2026-07-14 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-08-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
 * [slinkwatch](https://github.com/DCSO/slinkwatch) ⭐ 12 | 🐛 6 | 🌐 Go | 📅 2019-12-10 - Automatic enumeration and maintenance of Suricata monitoring interfaces.
@@ -85,8 +85,8 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,523 | 🐛 158 | 🌐 Python | 📅 2026-09-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-* [Evebox](https://github.com/jasonish/evebox) ⭐ 501 | 🐛 4 | 🌐 Rust | 📅 2026-09-18 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,526 | 🐛 158 | 🌐 Python | 📅 2026-09-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Evebox](https://github.com/jasonish/evebox) ⭐ 502 | 🐛 4 | 🌐 Rust | 📅 2026-09-20 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets and Lists
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

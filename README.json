@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:15:40Z",
-            "open_issues": 409,
+            "last_commit": "2026-09-21T15:26:38Z",
+            "open_issues": 411,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17815,
+            "stars": 17821,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "jasonish",
             "repo": "docker-suricata",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "container",
               "docker",
@@ -887,7 +887,7 @@
             "open_issues": 158,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2523,
+            "stars": 2526,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -918,11 +918,11 @@
             "id": 20077214,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:30:47Z",
+            "last_commit": "2026-09-20T17:43:52Z",
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "ids",
               "ips",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:33:49.454Z",
+    "last_updated": "2026-09-21T15:52:13.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
