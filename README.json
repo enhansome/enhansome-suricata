@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:06:27Z",
+            "last_commit": "2026-09-23T14:06:47Z",
             "open_issues": 415,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17819,
+            "stars": 17824,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -884,10 +884,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-19T01:47:19Z",
-            "open_issues": 158,
+            "open_issues": 157,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2528,
+            "stars": 2527,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1275,8 +1275,8 @@
             "id": 202765818,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-21T21:33:01Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T14:54:41Z",
+            "open_issues": 0,
             "owner": "secureworks",
             "repo": "aristotle",
             "stars": 39,
@@ -1345,7 +1345,7 @@
             "open_issues": 2,
             "owner": "dgenzer",
             "repo": "surify-cli",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "generator",
               "rules",
@@ -1398,7 +1398,7 @@
             "open_issues": 219,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1591,
+            "stars": 1592,
             "topics": [
               "distribution",
               "gui",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:00:58.360Z",
+    "last_updated": "2026-09-23T14:12:40.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1737,7 +1737,7 @@
       "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
-      "stars": 247,
+      "stars": 246,
       "topics": [
         "awesome",
         "awesome-list",
