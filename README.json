@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-23T16:12:25Z",
-            "open_issues": 417,
+            "last_commit": "2026-09-25T13:39:19Z",
+            "open_issues": 419,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17828,
+            "stars": 17831,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -303,15 +303,18 @@
             "id": 1227519848,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T17:07:54Z",
+            "last_commit": "2026-09-25T14:18:16Z",
             "open_issues": 7,
             "owner": "aaronphifer",
             "repo": "triagewall",
             "stars": 11,
             "topics": [
+              "alert-triage",
+              "fastapi",
               "homelab",
               "ids",
               "llm",
+              "local-llm",
               "ollama",
               "security",
               "self-hosted",
@@ -884,10 +887,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T19:20:35Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2529,
+            "stars": 2532,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1077,11 +1080,11 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T17:04:20Z",
+            "last_commit": "2026-09-25T11:27:56Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 39,
+            "stars": 38,
             "topics": [
               "anti-phishing",
               "antiphishing",
@@ -1153,7 +1156,7 @@
             "open_issues": 0,
             "owner": "klingerko",
             "repo": "nids-rule-library",
-            "stars": 29,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1725,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:11:03.499Z",
+    "last_updated": "2026-09-25T14:34:29.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1737,7 +1740,7 @@
       "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
-      "stars": 246,
+      "stars": 245,
       "topics": [
         "awesome",
         "awesome-list",
