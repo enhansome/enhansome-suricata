@@ -165,7 +165,7 @@
             "open_issues": 420,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17834,
+            "stars": 17835,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T11:23:32Z",
+            "last_commit": "2026-09-27T11:42:35Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:43:40.182Z",
+    "last_updated": "2026-09-27T14:40:10.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
