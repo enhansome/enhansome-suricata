@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-25T13:39:19Z",
-            "open_issues": 420,
+            "last_commit": "2026-09-28T15:09:05Z",
+            "open_issues": 412,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17835,
+            "stars": 17837,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -1042,7 +1042,7 @@
             "open_issues": 2,
             "owner": "aleksibovellan",
             "repo": "opnsense-suricata-nmaps",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "crowdsec",
               "ids",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T11:42:35Z",
+            "last_commit": "2026-09-28T13:19:55Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:40:10.750Z",
+    "last_updated": "2026-09-28T17:37:09.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
