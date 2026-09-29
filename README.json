@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:09:05Z",
-            "open_issues": 412,
+            "last_commit": "2026-09-29T09:54:26Z",
+            "open_issues": 421,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17837,
+            "stars": 17840,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -199,7 +199,7 @@
             "id": 41530307,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-07-14T13:51:35Z",
+            "last_commit": "2026-09-29T07:26:19Z",
             "open_issues": 2,
             "owner": "jasonish",
             "repo": "docker-suricata",
@@ -887,10 +887,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T19:20:35Z",
-            "open_issues": 152,
+            "open_issues": 149,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2532,
+            "stars": 2534,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -925,7 +925,7 @@
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "ids",
               "ips",
@@ -1080,11 +1080,11 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T13:19:55Z",
+            "last_commit": "2026-09-29T12:26:22Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "anti-phishing",
               "antiphishing",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:37:09.253Z",
+    "last_updated": "2026-09-29T15:44:36.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
