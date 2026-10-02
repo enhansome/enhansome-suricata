@@ -165,7 +165,7 @@
             "open_issues": 420,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17842,
+            "stars": 17844,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -887,7 +887,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T22:23:09Z",
-            "open_issues": 146,
+            "open_issues": 148,
             "owner": "cisagov",
             "repo": "Malcolm",
             "stars": 2538,
@@ -921,11 +921,11 @@
             "id": 20077214,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T03:23:02Z",
+            "last_commit": "2026-10-02T15:15:24Z",
             "open_issues": 5,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "ids",
               "ips",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T12:45:09Z",
+            "last_commit": "2026-10-02T09:31:38Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1122,7 +1122,7 @@
             "id": 162181827,
             "language": "CSS",
             "license": null,
-            "last_commit": "2026-09-15T08:30:02Z",
+            "last_commit": "2026-10-02T15:09:48Z",
             "open_issues": 1,
             "owner": "OISF",
             "repo": "suricata-intel-index",
@@ -1401,7 +1401,7 @@
             "open_issues": 219,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1592,
+            "stars": 1593,
             "topics": [
               "distribution",
               "gui",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:22:09.031Z",
+    "last_updated": "2026-10-02T15:44:47.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
