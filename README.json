@@ -161,8 +161,8 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T06:37:39Z",
-            "open_issues": 416,
+            "last_commit": "2026-10-06T07:09:02Z",
+            "open_issues": 437,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17849,
@@ -481,7 +481,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-07T22:27:17Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "google",
             "repo": "gonids",
             "stars": 198,
@@ -887,7 +887,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T22:23:09Z",
-            "open_issues": 148,
+            "open_issues": 153,
             "owner": "cisagov",
             "repo": "Malcolm",
             "stars": 2538,
@@ -1008,7 +1008,7 @@
             "open_issues": 0,
             "owner": "travisbgreen",
             "repo": "hunting-rules",
-            "stars": 182,
+            "stars": 184,
             "topics": [
               "anomaly-detection",
               "cyber-threat-intelligence",
@@ -1080,11 +1080,11 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T14:02:04Z",
+            "last_commit": "2026-10-06T05:34:43Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "anti-phishing",
               "antiphishing",
@@ -1156,7 +1156,7 @@
             "open_issues": 0,
             "owner": "klingerko",
             "repo": "nids-rule-library",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1580,7 +1580,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:21:48.176Z",
+    "last_updated": "2026-10-06T10:44:35.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1740,7 +1740,7 @@
       "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
-      "stars": 245,
+      "stars": 246,
       "topics": [
         "awesome",
         "awesome-list",
