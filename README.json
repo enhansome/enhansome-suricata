@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:09:02Z",
-            "open_issues": 437,
+            "last_commit": "2026-10-06T14:59:22Z",
+            "open_issues": 434,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17849,
+            "stars": 17848,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -886,11 +886,11 @@
             "id": 186475440,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T22:23:09Z",
-            "open_issues": 153,
+            "last_commit": "2026-10-06T15:14:16Z",
+            "open_issues": 157,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2538,
+            "stars": 2539,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T05:34:43Z",
+            "last_commit": "2026-10-06T13:01:51Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:35.470Z",
+    "last_updated": "2026-10-06T15:53:53.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
