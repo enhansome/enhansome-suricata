@@ -161,8 +161,8 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:12:14Z",
-            "open_issues": 413,
+            "last_commit": "2026-10-08T14:59:38Z",
+            "open_issues": 419,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17850,
@@ -484,7 +484,7 @@
             "open_issues": 3,
             "owner": "google",
             "repo": "gonids",
-            "stars": 198,
+            "stars": 197,
             "topics": [
               "ids",
               "network",
@@ -655,7 +655,7 @@
             "open_issues": 3,
             "owner": "StamusNetworks",
             "repo": "KTS",
-            "stars": 33,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -887,10 +887,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T15:54:50Z",
-            "open_issues": 169,
+            "open_issues": 188,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2541,
+            "stars": 2543,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T10:01:14Z",
+            "last_commit": "2026-10-08T10:14:05Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1225,7 +1225,7 @@
             "open_issues": 118,
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 686,
+            "stars": 685,
             "topics": [
               "cybersecurity",
               "detection",
@@ -1401,7 +1401,7 @@
             "open_issues": 219,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1593,
+            "stars": 1592,
             "topics": [
               "distribution",
               "gui",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:23:42.886Z",
+    "last_updated": "2026-10-08T16:25:38.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
