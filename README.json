@@ -162,7 +162,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-16T17:24:28Z",
-            "open_issues": 442,
+            "open_issues": 444,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17865,
@@ -249,7 +249,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T21:56:15Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "corelight",
             "repo": "suricata_exporter",
             "stars": 27,
@@ -890,7 +890,7 @@
             "open_issues": 188,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2547,
+            "stars": 2550,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1080,11 +1080,11 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T10:22:39Z",
+            "last_commit": "2026-10-18T10:39:20Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "anti-phishing",
               "antiphishing",
@@ -1401,7 +1401,7 @@
             "open_issues": 219,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1592,
+            "stars": 1593,
             "topics": [
               "distribution",
               "gui",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:55:29.043Z",
+    "last_updated": "2026-10-18T13:13:33.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
