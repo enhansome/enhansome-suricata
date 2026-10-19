@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:24:28Z",
-            "open_issues": 444,
+            "last_commit": "2026-10-19T15:24:45Z",
+            "open_issues": 433,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17865,
+            "stars": 17871,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -248,8 +248,8 @@
             "id": 462348716,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T21:56:15Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-18T16:35:48Z",
+            "open_issues": 2,
             "owner": "corelight",
             "repo": "suricata_exporter",
             "stars": 27,
@@ -1080,11 +1080,11 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T10:39:20Z",
+            "last_commit": "2026-10-19T12:35:53Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "anti-phishing",
               "antiphishing",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:13:33.756Z",
+    "last_updated": "2026-10-19T16:25:21.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
