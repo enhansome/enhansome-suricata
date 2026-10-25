@@ -162,10 +162,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-22T16:58:40Z",
-            "open_issues": 439,
+            "open_issues": 440,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17878,
+            "stars": 17879,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -481,10 +481,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T23:54:32Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "google",
             "repo": "gonids",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "ids",
               "network",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T10:34:51Z",
+            "last_commit": "2026-10-25T10:59:56Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1401,7 +1401,7 @@
             "open_issues": 222,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1592,
+            "stars": 1591,
             "topics": [
               "distribution",
               "gui",
@@ -1580,7 +1580,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1601,7 +1601,7 @@
             "open_issues": 27,
             "owner": "secureworks",
             "repo": "dalton",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:16:43.586Z",
+    "last_updated": "2026-10-25T13:40:56.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
