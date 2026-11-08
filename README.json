@@ -162,10 +162,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-06T12:44:58Z",
-            "open_issues": 445,
+            "open_issues": 447,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17897,
+            "stars": 17898,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -277,7 +277,7 @@
             "open_issues": 7,
             "owner": "aaronphifer",
             "repo": "triagewall",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "alert-triage",
               "fastapi",
@@ -890,7 +890,7 @@
             "open_issues": 174,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2590,
+            "stars": 2592,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -921,7 +921,7 @@
             "id": 20077214,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:00:13Z",
+            "last_commit": "2026-11-08T07:20:50Z",
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T09:47:31Z",
+            "last_commit": "2026-11-08T13:00:09Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:37:55.547Z",
+    "last_updated": "2026-11-08T15:55:49.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
