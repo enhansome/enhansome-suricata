@@ -161,8 +161,8 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-09T11:58:56Z",
-            "open_issues": 449,
+            "last_commit": "2026-11-10T15:34:08Z",
+            "open_issues": 454,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17900,
@@ -890,7 +890,7 @@
             "open_issues": 174,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2595,
+            "stars": 2596,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -949,7 +949,7 @@
             "id": 470601757,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-10-29T04:47:11Z",
+            "last_commit": "2026-11-10T08:53:59Z",
             "open_issues": 0,
             "owner": "StamusNetworks",
             "repo": "suricata-analytics",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T11:10:01Z",
+            "last_commit": "2026-11-10T16:54:53Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1225,7 +1225,7 @@
             "open_issues": 118,
             "owner": "StamusNetworks",
             "repo": "scirius",
-            "stars": 686,
+            "stars": 687,
             "topics": [
               "cybersecurity",
               "detection",
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:44:46.561Z",
+    "last_updated": "2026-11-10T16:59:23.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
