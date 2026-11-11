@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,900 | 🐛 454 | 🌐 Go | 📅 2026-11-10 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,902 | 🐛 440 | 🌐 Go | 📅 2026-11-11 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 339 | 🐛 2 | 🌐 Shell | 📅 2026-09-29 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-10-18 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -85,16 +85,16 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,596 | 🐛 174 | 🌐 Python | 📅 2026-11-06 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,596 | 🐛 172 | 🌐 Python | 📅 2026-11-06 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 508 | 🐛 4 | 🌐 Rust | 📅 2026-11-09 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
-* [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-10 - Various resources that are useful when interacting with Suricata data.
+* [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-11 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets and Lists
 
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 215 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
 * [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 184 | 🐛 1 | 📅 2026-11-03 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 89 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-11-10 - Suricata rules and datasets to detect phishing attacks.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - Suricata rules and datasets to detect phishing attacks.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 35 | 🐛 1 | 🌐 CSS | 📅 2026-11-05 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 1 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
@@ -158,4 +158,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
