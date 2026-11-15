@@ -162,10 +162,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-13T10:31:27Z",
-            "open_issues": 447,
+            "open_issues": 453,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17905,
+            "stars": 17907,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -481,7 +481,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T13:19:21Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "google",
             "repo": "gonids",
             "stars": 199,
@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "pevma",
             "repo": "SEPTun",
-            "stars": 212,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -821,7 +821,7 @@
             "open_issues": 2,
             "owner": "pevma",
             "repo": "SEPTun-Mark-II",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -890,7 +890,7 @@
             "open_issues": 171,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -925,7 +925,7 @@
             "open_issues": 4,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "ids",
               "ips",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T13:15:49Z",
+            "last_commit": "2026-11-15T10:34:41Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1601,7 +1601,7 @@
             "open_issues": 28,
             "owner": "secureworks",
             "repo": "dalton",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:45:20.122Z",
+    "last_updated": "2026-11-15T16:18:00.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1740,7 +1740,7 @@
       "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
-      "stars": 250,
+      "stars": 251,
       "topics": [
         "awesome",
         "awesome-list",
