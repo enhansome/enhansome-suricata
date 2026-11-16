@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-13T10:31:27Z",
-            "open_issues": 453,
+            "last_commit": "2026-11-16T17:48:23Z",
+            "open_issues": 446,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17907,
+            "stars": 17908,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "jasonish",
             "repo": "docker-suricata",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "container",
               "docker",
@@ -887,7 +887,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T15:44:45Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "cisagov",
             "repo": "Malcolm",
             "stars": 2600,
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T10:34:41Z",
+            "last_commit": "2026-11-16T10:50:12Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1401,7 +1401,7 @@
             "open_issues": 222,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1590,
+            "stars": 1589,
             "topics": [
               "distribution",
               "gui",
@@ -1580,7 +1580,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 618,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:18:00.317Z",
+    "last_updated": "2026-11-16T19:31:39.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
