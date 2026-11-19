@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,915 | 🐛 437 | 🌐 Go | 📅 2026-11-18 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 17,916 | 🐛 435 | 🌐 Go | 📅 2026-11-19 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 341 | 🐛 2 | 🌐 Shell | 📅 2026-11-18 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-10-18 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -49,13 +49,13 @@
 * [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) ⭐ 10 | 🐛 0 | 🌐 HCL | 📅 2022-08-02 - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata.
 * [MassDeploySuricata](https://github.com/pevma/MassDeploySuricata) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2014-12-07 - Mass deploy and update Suricata IDPS using Ansible IT automation platform.
 * [Mauerspecht](https://github.com/DCSO/mauerspecht) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2025-03-14 - Simple Probing Tool for Corporate Walled Garden Networks.
-* [Suricata-Monitoring](https://github.com/VVelox/Suricata-Monitoring) ⭐ 2 | 🐛 0 | 🌐 Perl | 📅 2024-06-04 - LibreNMS JSON / Nagios monitor for Suricata stats.
+* [Suricata-Monitoring](https://github.com/VVelox/Suricata-Monitoring) ⭐ 2 | 🐛 0 | 🌐 Perl | 📅 2026-11-19 - LibreNMS JSON / Nagios monitor for Suricata stats.
 * [ansible-suricata](https://github.com/GitMirar/ansible-suricata) ⭐ 1 | 🐛 0 | 📅 2018-06-30 - Suricata Ansible role (slightly outdated).
 
 ## Programming Libraries and Toolkits
 
 * [py-idstools](https://github.com/jasonish/py-idstools) ⚠️ Archived - Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool).
-* [gonids](https://github.com/google/gonids) ⭐ 199 | 🐛 4 | 🌐 Go | 📅 2026-11-17 - Go library to parse intrusion detection rules for engines like Snort and Suricata.
+* [gonids](https://github.com/google/gonids) ⭐ 199 | 🐛 6 | 🌐 Go | 📅 2026-11-17 - Go library to parse intrusion detection rules for engines like Snort and Suricata.
 * [suricataparser](https://github.com/m-chrome/py-suricataparser) ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2024-03-13 - Pure python parser for Snort/Suricata rules.
 * [surevego](https://github.com/rhaist/surevego) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2019-05-16 - Suricata EVE-JSON parser in Go.
 * [rust-suricatax-rule-parser](https://github.com/jasonish/rust-suricatax-rule-parser) ⭐ 13 | 🐛 0 | 🌐 Rust | 📅 2026-06-01 - Experimental Suricata Rule Parser in Rust.
@@ -78,14 +78,14 @@
 
 ## Documentation and Guides
 
-* [SEPTun](https://github.com/pevma/SEPTun) ⭐ 211 | 🐛 2 | 🌐 Makefile | 📅 2018-03-15 - Suricata Extreme Performance Tuning guide.
+* [SEPTun](https://github.com/pevma/SEPTun) ⭐ 212 | 🐛 2 | 🌐 Makefile | 📅 2018-03-15 - Suricata Extreme Performance Tuning guide.
 * [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) ⭐ 120 | 🐛 2 | 🌐 Makefile | 📅 2018-04-17 - Suricata Extreme Performance Tuning guide - Mark II.
 * [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2025-04-28 - The Security Analyst's Guide to Suricata.
 * [Suricata Community Style Guide](https://github.com/sidallocation/suricata-style-guide) ⭐ 11 | 🐛 4 | 📅 2024-06-27 - A collaborative document to collect style guidelines from the community of rule writers.
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,608 | 🐛 174 | 🌐 Python | 📅 2026-11-17 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,608 | 🐛 175 | 🌐 Python | 📅 2026-11-17 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 510 | 🐛 6 | 🌐 Rust | 📅 2026-11-17 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-11 - Various resources that are useful when interacting with Suricata data.
 
@@ -94,7 +94,7 @@
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 215 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
 * [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 184 | 🐛 1 | 📅 2026-11-03 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 89 | 🐛 2 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
-* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-11-18 - Suricata rules and datasets to detect phishing attacks.
+* [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-11-19 - Suricata rules and datasets to detect phishing attacks.
 * [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) ⭐ 35 | 🐛 2 | 🌐 CSS | 📅 2026-11-05 - OISF's curated, machine-readable list of sources used by Suricata-Update.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 1 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
@@ -108,6 +108,7 @@
 * [3CORESec NIDS - Sinkholes](https://dtection.io/ruleset/3cs_sinkholes) - Suricata ruleset focused on a curated list of public malware sinkholes (free).
 * [PAW Patrules](https://pawpatrules.fr) - Another free (CC BY-NC-SA) collection of rules for the Suricata engine.
 * [EveBox Rules](https://rules.evebox.org) - Suricata Rule Browser, indexes many free rulesets, including rules from the Suricata Ruleset Index.
+* [Whatoblock Blocklists](https://whatoblock.com/) - Hourly IP blocklists built from honeypot observations, with a Suricata export (account required; a free sample feed is available).
 
 ## Rule/Security Content Management and Handling
 
@@ -158,4 +159,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
