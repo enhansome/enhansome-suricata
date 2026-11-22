@@ -162,10 +162,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-20T19:33:36Z",
-            "open_issues": 430,
+            "open_issues": 439,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17917,
+            "stars": 17919,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -480,7 +480,7 @@
             "id": 74061816,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T23:49:56Z",
+            "last_commit": "2026-11-21T18:05:54Z",
             "open_issues": 7,
             "owner": "google",
             "repo": "gonids",
@@ -890,7 +890,7 @@
             "open_issues": 172,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2612,
+            "stars": 2613,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -1080,7 +1080,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T10:48:46Z",
+            "last_commit": "2026-11-22T10:55:46Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1123,7 +1123,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2026-11-05T22:35:58Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "OISF",
             "repo": "suricata-intel-index",
             "stars": 35,
@@ -1580,7 +1580,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 618,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1728,7 +1728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:44:31.524Z",
+    "last_updated": "2026-11-22T17:05:12.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1737,7 +1737,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-18T21:07:55Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "satta",
       "repo": "awesome-suricata",
       "stars": 251,
