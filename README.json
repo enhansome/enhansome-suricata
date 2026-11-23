@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T19:33:36Z",
-            "open_issues": 439,
+            "last_commit": "2026-11-23T19:53:47Z",
+            "open_issues": 429,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17919,
+            "stars": 17920,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -457,7 +457,7 @@
             "open_issues": 25,
             "owner": "jasonish",
             "repo": "py-idstools",
-            "stars": 287,
+            "stars": 288,
             "topics": [
               "ids",
               "intrusion-detection",
@@ -481,7 +481,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T18:05:54Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "google",
             "repo": "gonids",
             "stars": 199,
@@ -887,10 +887,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-19T22:21:31Z",
-            "open_issues": 172,
+            "open_issues": 173,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -964,6 +964,48 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Agentic Attack Detections",
+          "description": "Suricata rules for AI agent attack frameworks (ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes), each tested with a replayed flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+            "homepage": "https://threatdefence.com/article/artex-agentic-attack-framework-detection-hunting",
+            "id": 1464795219,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-23T21:04:45Z",
+            "open_issues": 3,
+            "owner": "ThreatDefence",
+            "repo": "agentic-attack-detections",
+            "stars": 554,
+            "topics": [
+              "agentic-ai",
+              "ai-security",
+              "blue-team",
+              "defender-xdr",
+              "detection-engineering",
+              "ioc",
+              "kql",
+              "llm-security",
+              "microsoft-sentinel",
+              "sigma",
+              "sigma-rules",
+              "stix",
+              "suricata",
+              "suricata-rules",
+              "threat-detection",
+              "threat-hunting",
+              "threat-intelligence",
+              "yara",
+              "yara-rules",
+              "zeek"
+            ]
+          },
+          "first_seen": "2026-11-23T21:15:21.015Z"
+        },
         {
           "node_type": "item",
           "title": "Quantum Insert detection for Suricata",
@@ -1080,7 +1122,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T10:55:46Z",
+            "last_commit": "2026-11-23T12:02:18Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1123,7 +1165,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2026-11-05T22:35:58Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "OISF",
             "repo": "suricata-intel-index",
             "stars": 35,
@@ -1580,7 +1622,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 621,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1597,8 +1639,8 @@
             "id": 100408000,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T15:16:09Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-23T03:33:27Z",
+            "open_issues": 24,
             "owner": "secureworks",
             "repo": "dalton",
             "stars": 528,
@@ -1728,7 +1770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:05:12.942Z",
+    "last_updated": "2026-11-23T21:15:21.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
@@ -1736,8 +1778,8 @@
       "id": 564772414,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-18T21:07:55Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-23T12:07:02Z",
+      "open_issues": 0,
       "owner": "satta",
       "repo": "awesome-suricata",
       "stars": 251,
@@ -1751,7 +1793,7 @@
         "suricata"
       ]
     },
-    "original_repository_sha": "0b75584dff541e88fa90fb9381d0bd2339ca94ca",
+    "original_repository_sha": "3823b553da325628acf43feb2ea448eab3c3ef4b",
     "enhanced_repository": "enhansome/enhansome-suricata",
     "enhanced_repository_description": null,
     "title": "Awesome Suricata with stars"
