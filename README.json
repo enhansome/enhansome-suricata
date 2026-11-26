@@ -161,11 +161,11 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-25T16:02:58Z",
-            "open_issues": 422,
+            "last_commit": "2026-11-26T16:36:20Z",
+            "open_issues": 424,
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17921,
+            "stars": 17924,
             "topics": [
               "golang",
               "hacktoberfest",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "jasonish",
             "repo": "docker-suricata",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "container",
               "docker",
@@ -890,7 +890,7 @@
             "open_issues": 178,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2619,
+            "stars": 2620,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -921,7 +921,7 @@
             "id": 20077214,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T23:49:06Z",
+            "last_commit": "2026-11-26T02:04:26Z",
             "open_issues": 6,
             "owner": "jasonish",
             "repo": "evebox",
@@ -976,11 +976,11 @@
             "id": 1464795219,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T07:20:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-26T11:52:00Z",
+            "open_issues": 2,
             "owner": "ThreatDefence",
             "repo": "agentic-attack-detections",
-            "stars": 679,
+            "stars": 737,
             "topics": [
               "agentic-ai",
               "ai-security",
@@ -1122,7 +1122,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T19:04:23Z",
+            "last_commit": "2026-11-26T16:39:24Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1164,7 +1164,7 @@
             "id": 162181827,
             "language": "CSS",
             "license": null,
-            "last_commit": "2026-11-05T22:35:58Z",
+            "last_commit": "2026-11-26T01:37:01Z",
             "open_issues": 4,
             "owner": "OISF",
             "repo": "suricata-intel-index",
@@ -1622,7 +1622,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 634,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1643,7 +1643,7 @@
             "open_issues": 24,
             "owner": "secureworks",
             "repo": "dalton",
-            "stars": 528,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1770,7 +1770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:11:03.916Z",
+    "last_updated": "2026-11-26T18:57:41.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
