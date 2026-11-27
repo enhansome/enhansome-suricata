@@ -161,8 +161,8 @@
             "id": 33258973,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T16:36:20Z",
-            "open_issues": 424,
+            "last_commit": "2026-11-27T17:28:19Z",
+            "open_issues": 429,
             "owner": "influxdata",
             "repo": "telegraf",
             "stars": 17924,
@@ -277,7 +277,7 @@
             "open_issues": 7,
             "owner": "aaronphifer",
             "repo": "triagewall",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "alert-triage",
               "fastapi",
@@ -480,8 +480,8 @@
             "id": 74061816,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T18:05:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-27T18:39:47Z",
+            "open_issues": 8,
             "owner": "google",
             "repo": "gonids",
             "stars": 199,
@@ -890,7 +890,7 @@
             "open_issues": 178,
             "owner": "cisagov",
             "repo": "Malcolm",
-            "stars": 2620,
+            "stars": 2621,
             "topics": [
               "arkime",
               "cybersecurity",
@@ -921,11 +921,11 @@
             "id": 20077214,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-26T02:04:26Z",
+            "last_commit": "2026-11-26T19:58:39Z",
             "open_issues": 6,
             "owner": "jasonish",
             "repo": "evebox",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "ids",
               "ips",
@@ -977,10 +977,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-26T11:52:00Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "ThreatDefence",
             "repo": "agentic-attack-detections",
-            "stars": 737,
+            "stars": 783,
             "topics": [
               "agentic-ai",
               "ai-security",
@@ -1122,7 +1122,7 @@
             "id": 815329211,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T16:39:24Z",
+            "last_commit": "2026-11-27T11:56:06Z",
             "open_issues": 2,
             "owner": "julioliraup",
             "repo": "Antiphishing",
@@ -1443,7 +1443,7 @@
             "open_issues": 222,
             "owner": "StamusNetworks",
             "repo": "Clear-NDR-ISO",
-            "stars": 1589,
+            "stars": 1590,
             "topics": [
               "distribution",
               "gui",
@@ -1622,7 +1622,7 @@
             "open_issues": 9,
             "owner": "ReversecLabs",
             "repo": "leonidas",
-            "stars": 637,
+            "stars": 638,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:22.516Z"
@@ -1770,7 +1770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:57:41.885Z",
+    "last_updated": "2026-11-27T18:54:00.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Suricata",
